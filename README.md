@@ -1,4 +1,4 @@
-﻿# Netflix_Clone
+﻿# Netflix Clone
 
 Simple Netflix clone using Django framework
 ![mainmenu](https://github.com/1nqi/Netflix-Clone/assets/80573138/ca9e8284-9eb9-490f-a5be-b65aef15a664)
